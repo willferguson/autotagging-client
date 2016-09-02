@@ -1,0 +1,15 @@
+info:
+  app:
+    description: Images auto tagging Google Services
+    version: 0.1
+
+eureka:
+  client:
+    registerWithEureka: false
+
+spring:
+  main:
+    web-environment: false
+  application:
+    name: WillTest
+
